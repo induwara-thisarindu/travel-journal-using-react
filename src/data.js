@@ -7,7 +7,7 @@ export default [
         startDate:"12 April, 2024",
         endDate:"15 April, 2024",
         description: "Adam's Peak is a 2,243 metres (7,359 ft) tall conical mountain located in central Sri Lanka. It is well-known for the sacred footprint, a 1.8 m rock formation near the summit, in Buddhist tradition held to be the footprint of Buddha, in Hindu tradition that of Shiva and in Muslim tradition that of Adam.",
-        imageUrl: "../../public/adams-peak.jpg"
+        imageUrl: "../public/adams-peak.jpg"
     }, {
         id: "2",
         title: "Sinharaja Forest",
@@ -16,6 +16,6 @@ export default [
         startDate:"10 March, 2023",
         endDate:"17 March, 2023",
         description: "Declared as a World Heritage Site by UNESCO, Sinharaja Forest Reserve (kingdom of the lion), is a paradise for nature and wildlife lovers. It is home to a vast number of endemic species of birds and mammals of Sri Lanka. About 95 per cent of Sri Lankan endemic birds and more than 50 per cent of endemic mammals are known to have their habitats in this Forest Reserve",
-        imageUrl: "../../public/sinharaja.jpg"
+        imageUrl: "../public/sinharaja.jpg"
     }
 ]
